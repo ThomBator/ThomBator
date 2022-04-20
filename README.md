@@ -8,7 +8,7 @@ My university's academic integrity policy prohibits me publishing coursework in 
 
 Skills & Certifications:
 Certifications: CompTIA Project+
-Programing Languages & Technical Skills: Java; Python; CSS; HTML; JavaScript; SQL; Git/Github;Bash
+Programing Languages & Technical Skills: Java; Python; C++; CSS; HTML; JavaScript; SQL; Git/Github;Bash
 Soft Skills: Pitching & presenting to clients; working on multi-department (design, web & marketing) teams; meeting tight deadlines; concise email/written communication; following creative briefs; using project management software (Basecamp); 
 
 
