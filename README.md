@@ -1,11 +1,13 @@
 
-# Hi my name is Thom Bator. I am an aspiring Software Developer from Toronto, Canada.  
+# Note: My university's academic integrity policy prohibits me publishing coursework in public repositories. Portfolio projects in Java, Python and C++ available on request.
+
+## Hi my name is Thom Bator. I am an aspiring Software Developer from Toronto, Canada.  
 
 I'm currently in my final year of a B.Sc in Computer Science at Western Governors University. 
 Before entering into my degree program I worked for about 10 years as an advertising copywriter and video script writer. 
 I look forward to transitioning into a Software Developer role when I complete my studies in several months. 
 
-##My university's academic integrity policy prohibits me publishing coursework in public repositories, but I have several portfolio projects in Java, Python and C++ available on request.
+
 
 Programing Languages & Technical Skills: Java; Python; C++; CSS; HTML; JavaScript; SQL; Git/Github; Bash.
 
