@@ -13,6 +13,10 @@ Programing Languages & Technical Skills:
  - HTML 
  - JavaScript 
  - SQL (MySQL/, POSTGRES) 
+ 
+ Certifications:
+ - CompTIA project+ (Project Management Certification) 
+ - ITIL 4 Foundation (IT Service Management Certification) 
 
 Soft Skills: Pitching & presenting to clients; working on multi-department (design, web & marketing) teams; meeting tight deadlines; concise email/written communication; following creative briefs; using project management software (Basecamp). 
 
