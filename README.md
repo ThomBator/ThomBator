@@ -18,7 +18,9 @@ Programing Languages & Technical Skills:
  - CompTIA project+ (Project Management Certification) 
  - ITIL 4 Foundation (IT Service Management Certification) 
 
-Soft Skills: Pitching & presenting to clients; working on multi-department (design, web & marketing) teams; meeting tight deadlines; concise email/written communication; following creative briefs; using project management software (Basecamp). 
+Soft Skills:
+
+- Pitching & presenting to clients; working on multi-department (design, web & marketing) teams; meeting tight deadlines; concise email/written communication; following creative briefs; using project management software (Basecamp). 
 
 **Note: My university's academic integrity policy prohibits me publishing coursework in public repositories. Portfolio projects in Java, Python and C++ available on request.**
 <!---
