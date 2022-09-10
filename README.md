@@ -1,7 +1,7 @@
 
 # Hi my name is Thom Bator. I am an aspiring Software Developer from Toronto, Canada.  
 
-I'm currently in my final year of a B.Sc in Computer Science at Western Governors University. 
+I recently graduated with a B.Sc in Computer Science at Western Governors University. 
 Before entering into my degree program I worked for about 10 years as an advertising copywriter and video script writer. 
 I look forward to transitioning into a Software Developer role when I complete my studies in several months. 
 
