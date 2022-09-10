@@ -12,7 +12,7 @@ Programing Languages & Technical Skills:
  - CSS 
  - HTML 
  - JavaScript 
- - SQL (MySQL/, POSTGRES) 
+ - SQL (MySQL, POSTGRES) 
  
  Certifications:
  - CompTIA project+ (Project Management Certification) 
