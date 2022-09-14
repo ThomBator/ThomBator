@@ -3,7 +3,7 @@
 
 I recently graduated with a B.Sc in Computer Science at Western Governors University. 
 Before entering into my degree program I worked for about 10 years as an advertising copywriter and video script writer. 
-I look forward to transitioning into a Software Developer role when I complete my studies in several months. 
+
 
 Programing Languages & Technical Skills:
  - Java (JavaFX, JDBC)
