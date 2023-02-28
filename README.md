@@ -6,12 +6,12 @@ Before entering into my degree program I worked for about 10 years as an adverti
 
 
 Programing Languages & Technical Skills:
+ - JavaScript (React, Next.JS, Express, Node.JS)
  - Java (JavaFX, JDBC)
  - Python (Flask, Numpy, Matplotlib, Scikit-learn, Pandas)
  - C++ 
  - CSS 
  - HTML 
- - JavaScript 
  - SQL (MySQL, POSTGRES) 
  
  Certifications:
@@ -20,9 +20,8 @@ Programing Languages & Technical Skills:
 
 Soft Skills:
 
-- Pitching & presenting to clients; working on multi-department (design, web & marketing) teams; meeting tight deadlines; concise email/written communication; following creative briefs; using project management software (Basecamp). 
+- Pitching & presenting to clients; working on multi-department (design, web & marketing) teams; meeting tight deadlines; SEO; technical writing and documentation. 
 
-## **Note: My university's academic integrity policy prohibits me publishing coursework in public repositories. Portfolio projects in Java, Python and C++ available on request.**
 <!---
 ThomBator/ThomBator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
