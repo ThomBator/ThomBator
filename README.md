@@ -1,5 +1,5 @@
 
-# Hi my name is Thom Bator. I am a Junior Software Developer & Freelance Copywriter from Toronto, Canada.  
+# Hi my name is Thom Bator. I am a Junior Software Developer from Toronto, Canada.  
 
 I recently graduated with a B.Sc in Computer Science at Western Governors University. 
 Before entering into my degree program I worked for about 10 years as an advertising copywriter and video script writer. 
