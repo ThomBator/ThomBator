@@ -15,10 +15,10 @@ React, WordPress, NodeJS/ExpressJS, Flask, SQL, MongoDB
 Git/Bitbucket,  Chrome DevTools, Google Tag Manager, Google Analytics 4, Fibery, Hubspot, WAVE Accessibility checker
 
 ## Education:
-B.S. Computer Science, Western Governors University (2022) 
-Bachelor of Journalism, University of King’s College (2010)
-B.A. Political Science, Concordia University (2008) 
-CompTIA Project+ (Certificate in IT Project Management)
+* B.S. Computer Science, Western Governors University (2022) 
+* Bachelor of Journalism, University of King’s College (2010)
+* B.A. Political Science, Concordia University (2008) 
+* CompTIA Project+ (Certificate in IT Project Management)
 
 <!---
 ThomBator/ThomBator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
