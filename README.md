@@ -1,5 +1,5 @@
 
-# Hi my name is Thom Bator. I am a Junior Software Developer from Toronto, Canada.  
+# Hi my name is Thom Bator. I am a Junior Software Developer & Marketer from Toronto, Canada.  
 
 Currently working as a junior developer and inbound marketing specialist for a digital consultancy in Hamilton, Ontario. Prior to getting my B.S. in Computer Science I worked for about 10 years as an advertising copywriter and video script writer. 
 
