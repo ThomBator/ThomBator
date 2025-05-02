@@ -17,7 +17,7 @@
 * React, WordPress, NodeJS/ExpressJS, Flask, SQL, MongoDB
 
 ## Tools: 
-Git/Bitbucket,  Chrome DevTools, Google Tag Manager, Google Analytics 4, Fibery, Hubspot, WAVE Accessibility checker
+* Git/Bitbucket,  Chrome DevTools, Google Tag Manager, Google Analytics 4, Fibery, Hubspot, WAVE Accessibility checker
 
 ## Education:
 * B.S. Computer Science, Western Governors University (2022) 
