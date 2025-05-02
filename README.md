@@ -14,7 +14,7 @@
 * JavaScript, TypeScript, Python, PHP, HTML, CSS
 
 ## Frameworks & Databases: 
-* React, WordPress, NodeJS/ExpressJS, Flask, SQL, MongoDB
+* React, WordPress, Shopify, NodeJS/ExpressJS, Flask, SQL, MongoDB
 
 ## Tools: 
 * Git/Bitbucket,  Chrome DevTools, Google Tag Manager, Google Analytics 4, Fibery, Hubspot, WAVE Accessibility checker
