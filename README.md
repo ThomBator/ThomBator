@@ -1,5 +1,5 @@
 
-# Hi my name is Thom Bator. I am a Software Developer & Marketer from Toronto, Canada.  
+# Hi my name is Thom Bator. I'm a Software Developer & Marketer from Toronto, Canada.  
 
 ## TL;DR
 
