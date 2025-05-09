@@ -1,8 +1,6 @@
 
 # Hi my name is Thom Bator. I'm a Software Developer & Marketer from Toronto, Canada.  
 
-## TL;DR
-
 * Full-stack developer skilled in creating React and Node-based apps with clean, scalable architecture.
 
 * Experienced in developing complex WordPress & Shopify sites with numerous custom features. 
