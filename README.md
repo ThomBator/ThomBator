@@ -3,11 +3,13 @@
 
 ## TL;DR
 
-* Full-stack developer skilled in React and Node-based apps with clean, scalable architecture.
+* Full-stack developer skilled in creating React and Node-based apps with clean, scalable architecture.
 
-* An expert in accessibility, with experience delivering WCAG-compliant sites.
+* Experienced in developing complex WordPress & Shopify sites with numerous custom features. 
 
-* A developer with a marketing mindset: ad copywriting background sharpens my focus on intuitive, conversion-driven UX.
+* An accessibility advocate with experience delivering WCAG-compliant sites.
+
+* 10+ years of ad copywriting background sharpen my focus on intuitive, conversion-driven UX.
 
 
 ## Languages: 
